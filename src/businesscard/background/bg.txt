@@ -1,0 +1,19 @@
+./background\05uk_eib40849_rectify.jpg	120,228,169,58 698,238,284,66 267,184,213,56
+./background\0Bij_ebh40155_rectify.jpg	465,488,179,62 938,470,210,87 650,436,163,51
+./background\0FwB_gkb61001_rectify.jpg	477,218,173,43 774,403,168,89 779,244,162,79
+./background\0y0L_aak00034_rectify.jpg	457,275,320,65 443,439,390,62 862,342,278,102
+./background\0ymG_dlk31110_rectify.jpg	223,325,244,72 827,188,195,82 656,277,168,83
+./background\1CWq_qls161142_rectify.jpg	128,298,179,61 493,222,518,49 989,487,184,112
+./background\1Tuh_icr80241_rectify.jpg	946,674,189,162
+./background\2AxF_sid180851_rectify.jpg	58,210,290,80 845,288,285,106 86,407,460,82
+./background\2kbD_pev150421_rectify.jpg	738,233,146,58 995,523,187,142 153,304,315,109
+./background\2Upz_xdr230317_rectify.jpg	67,471,388,74 755,402,382,83
+./background\3cRE_faf50053_rectify.jpg	101,386,182,63 94,540,191,70 834,344,301,74
+./background\3v9V_rco170238_rectify.jpg	714,263,205,68 887,401,229,111 907,139,218,78
+./background\3VFr_qjc160926_rectify.jpg	211,320,379,55 910,384,272,164
+./background\4D6m_vel210435_rectify.jpg	193,43,329,77 921,23,249,85 814,392,245,141
+./background\5PfY_oka141024_rectify.jpg	120,35,281,75 864,396,300,89
+./background\5rz2_sen180413_rectify.jpg	335,271,543,76 907,493,261,134
+./background\5xmc_edk40310_rectify.jpg	788,55,344,123 77,23,322,139 890,457,276,254
+./background\6Ncy_ilq81116_rectify.jpg	389,91,201,92 846,327,279,125
+./background\7dDh_hap70039_rectify.jpg	62,56,168,78 638,289,290,137
